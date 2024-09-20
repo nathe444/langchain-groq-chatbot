@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines two components: retrieval of relevant documents from a knowledge base and the generation of natural language responses based on the retrieved information. It is used to enhance language models by providing up-to-date or more contextually accurate responses.
